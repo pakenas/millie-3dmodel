@@ -34,7 +34,7 @@
             "doubleSided" : true,
             "name" : "Cartier_Bronze",
             "normalTexture" : {
-                "index" : 0
+                "index" : 2
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {

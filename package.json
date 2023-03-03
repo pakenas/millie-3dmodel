@@ -2,7 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
-  "homepage": "/build",
+  "homepage": "http://millie-demo.s3-website.eu-central-1.amazonaws.com/build/",
   "keywords": [
     "react",
     "starter"
